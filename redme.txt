@@ -1,0 +1,44 @@
+
+tailwind vite 
+
+--------------------------------
+
+extensions:
+
+console ninja
+tailwindcss intelliSense
+prettier
+auto rename tag
+ES7+ React/Redux
+Github copolit
+-----------------------
+
+Github
+
+-----------------------
+
+Pages.jsx   rafc
+
+(e.g. Home, About, SingIn)
+-----------------------
+
+npm i react-rauter-dom
+
+import {Home} from "./Pages/Home.jsx"
+
+App.jsx conf with 
+<BrowserRouter>
+<Routes>
+<Route path="/" element={Home}/>
+</Routes>
+</BrowserRouter>
+
+--------------------------
+src/components/header.jsx
+header & tailwind
+
+---------------------
+
+npm i react-icons
+
+-----------------------
